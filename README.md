@@ -1,7 +1,7 @@
 <img src="https://github.com/shreyanshi16/shreyanshi16/blob/main/images/ghbackground2.png"/>
 
 <p align="center">
-  I am a Sophomore pursuing bachlores in Computer Science  Engineering 💻 from Navrachana University 🏛️. I am an Enthusiastic Learner with creative Insights ✨. Love to get out to my comfort zone to explore new things in technology 💡. Apart from that I also love to contribute in Open Source Projects 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
+  I am a Sophomore pursuing bachlores in Computer Science  Engineering 💻 from Navrachana University 🏛️. I am an Enthusiastic Learner with creative Insights ✨. Love to get out of my comfort zone to explore new things in technology 💡. Apart from that I also love to contribute in Open Source Projects 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills 🤓.
 </p>  
 
 - 📝 I sometimes write articles on [Medium](Medium)
